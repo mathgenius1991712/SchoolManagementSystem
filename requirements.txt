@@ -6,7 +6,7 @@ beautifulsoup4==4.9.1
 billiard==3.6.3.0
 braintree==4.6.0
 CacheControl==0.12.6
-celery==5.0.5
+celery
 certifi==2019.9.11
 cffi==1.14.5
 chardet==3.0.4

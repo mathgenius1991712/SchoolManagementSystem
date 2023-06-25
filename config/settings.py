@@ -29,6 +29,7 @@ env = environ.Env(
     USE_MAILCHIMP=(bool, False),
     SSL_ISSANDBOX=(bool, True),
 )
+
 # reading .env file
 try:
     environ.Env.read_env()
