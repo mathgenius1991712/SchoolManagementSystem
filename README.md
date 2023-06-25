@@ -3,11 +3,12 @@ A fullstack school management project in django, bootstrap-4 and javascript.
 
 # Installation:
 1. go to the project folder
-2. run `pipenv install`
-3. create `.env` under config folder and give credentials following `.env.example` template
+2. run `python -m venv env`
+3. run `pip install -r requirements.txt` 
+4. create `.env` under config folder and give credentials following `.env.example` template
 3.1. See additional resources section to setup/get more info.
-4. run `python manage.py migrate`
-5. then `python manage.py runserver`
+5. run `python manage.py migrate`
+6. then `python manage.py runserver`
 for testing, create a superuser too.
 
 # Celery-redis setup:
@@ -64,8 +65,5 @@ Follow the same pattern to install initial data for other applications.
 <br>
 
 # Contact me:
-- [Facebook](https://www.facebook.com/tareqmonwer1/)
-- [Linkedin](linkedin.com/in/tareqmonwer)
-- [Twitter](https://twitter.com/TareqMonwerDPI)
-- [Github](https://github.com/TareqMonwer)
-- [Website](https://www.tareqmonwer.com)
+- [Linkedin](https://www.linkedin.com/in/gaun-yun-23644872/)
+- [Github](https://github.com/mathgenius1991712)
